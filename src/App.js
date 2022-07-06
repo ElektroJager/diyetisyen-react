@@ -1,11 +1,16 @@
+import Header from "./components/Header";
+import { Routes, Route } from "react-router-dom";
+import Home from "./pages/Home"
 import "./tailwind.css"
 function App() {
   return (
-    <div className="app">
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
-    </div>
+    <>
+      <Header>     
+      </Header>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+      </Routes>
+    </> 
   );
 }
 
