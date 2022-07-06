@@ -8,7 +8,8 @@ function Hero(){
             </h1>
             <p className="ml-8 mt-4 font-Roboto">
                 2014 yılında beslenme ve diyet mesleğine gönül veren Seda Sağbaş, lise öğrenimini Adana Ticaret Odası Anadolu Lisesi’nde, üniversite eğitimini ise İstanbul Bilim Üniversitesi’nde Beslenme ve Diyetetik bölümünden mezun olarak tamamlamıştır.
-
+            </p>
+            <p className="ml-8 mt-8 font-Roboto">
                 Arkasında binlerce mutlu danışan bırakan Sağbaş, bu noktaya gelmesini danışanlarını kendine bağımlı hale getirmeden, en hızlı ve sağlıklı bir biçimde istedikleri görüntüye ulaşmasına ve her danışanı için aynı özveriyi göstermesine borçlu olduğunu dile getiriyor.
             </p>
         </div>    
